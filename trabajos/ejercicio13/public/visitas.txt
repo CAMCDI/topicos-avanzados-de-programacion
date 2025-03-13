@@ -1,0 +1,8 @@
+nombre:diego<br>
+               comentarios:Ahora vamos a ir 
+&lt;script&gt;
+ window.location.href = &#x27;https://www.google.com&#x27;;
+&lt;/script&gt;
+<hr>nombre:diego<br>
+               comentarios:comentario 1<hr>nombre:juan<br>
+               comentarios:comentario 2<hr>
