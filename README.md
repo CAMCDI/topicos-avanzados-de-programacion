@@ -1,5 +1,4 @@
 
-```markdown
 # Tópicos Avanzados de Programación 🚀
 
 ¡Bienvenido al repositorio de **Tópicos Avanzados de Programación**! Aquí encontrarás una colección de códigos y ejemplos prácticos desarrollados en Node.js que abarcan diversos temas avanzados de programación. Este repositorio está diseñado para ser un recurso educativo y de referencia para aquellos que buscan profundizar sus conocimientos en Node.js.
