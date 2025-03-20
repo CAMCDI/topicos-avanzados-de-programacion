@@ -27,13 +27,13 @@ Cada ejemplo está diseñado para ser autónomo y proporcionar una comprensión 
 
 Para ejecutar los ejemplos en tu máquina local, sigue estos pasos:
 
-1. **Clona el repositorio:**
+1. Clona el repositorio:
 
    ```bash
    git clone https://github.com/CAMCDI/topicos-avanzados-de-programacion.git
    ```
 
-2. **Navega al directorio del proyecto:**
+2. Navega al directorio del proyecto:
 
    ```bash
    cd topicos-avanzados-de-programacion
